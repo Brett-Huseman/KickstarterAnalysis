@@ -16,8 +16,8 @@
 ![Theatre_Outcomes_Vs_Month](Resources/Theatre_Outcomes_Vs_Month.png)
 
   The line graph above shows the results of our research on how the launch date of a theatre campaign effects the outcome of that campaign.
-  Even though the variance between successful campaigns and failed campaigns varies throughout the year, there are more successful theatre campaigns than failed ones in any given month. December has the worse success rate and lowest total successes of any month, while May has the highest total successes and the best success rate. 
-  Outside May and December, the ouctomes follow a similar trajectory, and the success rate doesn't change wildly. 
+ 
+  Even though the variance between successful campaigns and failed campaigns varies throughout the year, there are more successful theatre campaigns than failed ones in any given month. December has the worse success rate and lowest total successes of any month, while May has the highest total successes and the best success rate. Outside May and December, the ouctomes follow a similar trajectory, and the success rate doesn't change wildly. 
 
 
 ### Analysis of Outcomes Based on Goals
@@ -25,6 +25,7 @@
 
   This line graph presents how the goal amount affects the outcome percentage of a play campaign. 
   As to be expected, a Kickstarter campaign is most likely to succeed when the goal amount is set low. However, from $30,000 to $45,000, we see a strange increase in the success rate. While the sample size is smaller for Kickstarter campaigns with goals this high, one would still assume that these campaigns would be failing more often than succeeding.
+  
   No Kickstarter campaign for a play with a goal price between $45,000 and $49,999 has ever succeeded. This doesn't seem outlandish as an isolated fact, as that sounds like a steep price for a play. However, when seen next to the fact that there have been successes in goal amounts higher than $50,000, it does raise some questions about percieved quality and price point.
   
   
@@ -42,9 +43,11 @@
 
 - Kickstarter campaigns for theatre fail almost as frequently as they succeed when starting in December. This is the only month where this is the case. While the graph cannot tell us WHY this is true, I speculate that during the month of December, people are less willing to donate to a Kickstarter for theatre as they are likely saving for holliday gifts or donating their money to a "better" cause.
 
+
 #### What can you conclude about the Outcomes based on Goals?
 
 - The lower that the goal for a Theatre Kickstarter Campaign is, the more likely it is to succeed... except for between $35,000 to $45,000. This spike in success rate, while interesting, does not make much sense and is likely caused by a small sample size.  
+
 
 #### What are some limitations of this dataset?
 
@@ -53,8 +56,10 @@
   
 #### What are some other possible tables and/or graphs that we could create?
   Depending on what Louise was curious about, there are tons of different tables and graphs that could be made from this dataset. The following list are ideas for graphs that I think may have had interesting results:
+  
 - We could have created a new field based on the date created and date finished, and seen how the duration of a campaign is related to its outcome
-- How the success rate of theatre campaigns compare to the success rate of other subcategories
+- How does the success rate of theatre campaigns compare to the success rate of other subcategories?
 - How does the average donation amount relate to the success rate of campaigns, and does this differ in different categories of campaigns?
 - Overall, has the success rate of Kickstarter campaigns improved or gotten worse through the years of its existence?
+- Does the country of origin affect the campaign's success?
 

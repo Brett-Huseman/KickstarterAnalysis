@@ -1,2 +1,2 @@
-# KickstarterAnalysis
-Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kickstarter Campaigns
+Performing Analysis on data from Kickstarter

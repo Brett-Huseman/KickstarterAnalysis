@@ -13,7 +13,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theatre_Outcomes_Vs_Month](Resources/Theatre_Outcomes_Vs_Month.png)
+![Theatre_Outcomes_Vs_Launch](Resources/Theatre_Outcomes_Vs_Launch.png)
 
   The line graph above shows the results of our research on how the launch date of a theatre campaign effects the outcome of that campaign.
  
